@@ -11,7 +11,8 @@ Weather App is an Android application that provides real-time weather informatio
 - 📱 Clean and intuitive UI
 
 ## Screenshots
-![Main Screen](ScreenShot/screen_1.jpg)
+![Screen1](ScreenShot/screen_1.jpg)
+![Screen2](ScreenShot/screen_2.jpg)
 
 ## Prerequisites
 - Android Studio
@@ -70,19 +71,3 @@ The app requires the following permissions:
 3. Displays current weather and hourly forecast
 4. Stores forecast data in Firebase Realtime Database
 5. Allows manual city search
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Your Name - [Your Email]
-
-Project Link: [https://github.com/yourusername/WeatherApp](https://github.com/yourusername/WeatherApp)
