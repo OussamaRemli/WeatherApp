@@ -11,7 +11,7 @@ Weather App is an Android application that provides real-time weather informatio
 - 📱 Clean and intuitive UI
 
 ## Screenshots
-![Main Screen](ScreenShot/screen_1.png)
+![Main Screen](ScreenShot/screen_1.jpg)
 
 ## Prerequisites
 - Android Studio
