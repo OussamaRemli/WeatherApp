@@ -23,7 +23,7 @@ Weather App is an Android application that provides real-time weather informatio
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/WeatherApp.git
+https://github.com/OussamaRemli/WeatherApp.git
 ```
 
 ### Setup WeatherAPI
